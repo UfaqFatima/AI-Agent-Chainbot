@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+
+GEMINI_API_KEY="AIzaSyD2M_IJbjMIBJqafXFOuf04PVBN9aTaeLI"
